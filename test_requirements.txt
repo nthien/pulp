@@ -1,0 +1,6 @@
+coverage
+flake8
+mock<1.1
+nose
+nosexcover
+unittest2

@@ -1,0 +1,4 @@
+# Configuration file for Pulp's Resource Manager
+
+# Configure Python's encoding for writing all logs, stdout and stderr
+PYTHONIOENCODING="UTF-8"

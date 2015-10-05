@@ -1,0 +1,13 @@
+---
+- hosts: all
+  sudo: true
+  vars:
+  roles:
+    - core
+
+- hosts: dev
+  sudo: true
+  vars:
+  roles:
+    - db
+    - dev
